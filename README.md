@@ -3,35 +3,41 @@
 
 ## Informações importantes
 
-- Nosso blog: <https://curso-r.com/blog/>
+-   Nosso blog: <https://curso-r.com/blog/>
 
-- Nosso fórum: <https://discourse.curso-r.com/>
+-   Nosso fórum: <https://discourse.curso-r.com/>
 
-- Nossos livros:
+-   Nossos livros:
 
-  - [Ciência de Dados em R](https://livro.curso-r.com/)
-  - [Zen do R](https://curso-r.github.io/zen-do-r/)
-  - [Programando em Shiny](https://programando-em-shiny.curso-r.com/)
-  - [Beautiful R](https://curso-r.github.io/beautiful-r/) (em inglês)
+    -   [Ciência de Dados em R](https://livro.curso-r.com/)
+    -   [Zen do R](https://curso-r.github.io/zen-do-r/)
+    -   [Programando em
+        Shiny](https://programando-em-shiny.curso-r.com/)
+    -   [Beautiful R](https://curso-r.github.io/beautiful-r/) (em
+        inglês)
 
 ## Dúvidas
 
 Fora do horário de aula ou monitoria:
 
-- Perguntas gerais sobre o curso deverão ser feitas no Classroom.
+-   Perguntas gerais sobre o curso deverão ser feitas no Classroom.
 
-- Perguntas sobre R, principalmente as que envolverem código, deverão
-  ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
+-   Perguntas sobre R, principalmente as que envolverem código, deverão
+    ser enviadas no [nosso fórum](https://discourse.curso-r.com/).
 
 ## Slides
 
-| Slide |
-|:------|
+| Slide                                                                                                         |
+|:--------------------------------------------------------------------------------------------------------------|
+| [01-introducao_ao_curso.html](https://curso-r.github.io/202307-python-r/slides/01-introducao_ao_curso.html)   |
+| [02-introducao_ao_python.html](https://curso-r.github.io/202307-python-r/slides/02-introducao_ao_python.html) |
 
 ## Scripts utilizados em aula
 
-| Exemplo |
-|:--------|
+| Exemplo                                                                           |
+|:----------------------------------------------------------------------------------|
+| [aula_1.py](https://curso-r.github.io/202307-python-r/exemplos_de_aula/aula_1.py) |
+| [aula_2.py](https://curso-r.github.io/202307-python-r/exemplos_de_aula/aula_2.py) |
 
 ## Práticas
 
@@ -53,12 +59,12 @@ relacionadas com o conteúdo da aula).
 
 ## Redes sociais da Curso-R
 
-- Youtube: <https://www.youtube.com/c/CursoR6/featured>
+-   Youtube: <https://www.youtube.com/c/CursoR6/featured>
 
-- Instagram: <https://www.instagram.com/cursoo_r/>
+-   Instagram: <https://www.instagram.com/cursoo_r/>
 
-- Twitter: <https://twitter.com/curso_r>
+-   Twitter: <https://twitter.com/curso_r>
 
-- Linkedin: <https://www.linkedin.com/company/curso-r/>
+-   Linkedin: <https://www.linkedin.com/company/curso-r/>
 
-- Facebook: <https://www.facebook.com/cursodeR>
+-   Facebook: <https://www.facebook.com/cursodeR>
